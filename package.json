@@ -12,5 +12,9 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^18.16.19",
     "nuxt": "^3.6.2"
+  },
+  "dependencies": {
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "vue-carousel": "^0.18.0"
   }
 }
